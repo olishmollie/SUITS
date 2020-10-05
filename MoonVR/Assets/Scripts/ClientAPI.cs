@@ -21,7 +21,7 @@ public class ClientAPI : MonoBehaviour
 
             if (www.isNetworkError)
             {
-                Debug.Log(www.error);
+                //Debug.Log(www.error);
             }
             else
             {
